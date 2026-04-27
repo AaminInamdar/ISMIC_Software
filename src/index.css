@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@media print {
+  button {
+    display: none;
+  }
+}
